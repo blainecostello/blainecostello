@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @blainecostello
-- 👀 I’m interested in modifications to NFT functionality and novel smart-contract design.
-- 🌱 I’m currently learning Solidity, truffle, python and other tools related to blockchain infrastructure and smart contract development.
-- 💞️ I’m looking to collaborate on Blockchain-related projects.
-- 📫 Contact me at blaine.c.costello@gmail.com
+Hi, I’m @blainecostello
 
-Please see bcostello_CV.pdf located within this repository for more information on my background.
+**Note: Many of my projects are private for various reasons and have not been shared on this platform.  Here you will find a few code samples from extracurricular projects and published research projects that can now exist in the public domain.**
+
+[Take a look at my CV](https://github.com/blainecostello/blainecostello/blob/main/BCostello_CVx.pdf) for more information on my background.
+
+- Interests: blockchain technologies, smart contract design, advanced numerical methods, algorithm design, complex data structure design, 3d printing, computer-aided manufacturing/design, g-code, 3d design and file formats, audio engineering, digital audio synthesis, energy storage technologies, renewable energy, semiconductor physics, embedded systems and firmware development, and electron physics in exotic materials.
+
+- Currently Learning: Solidity, Truffle, goLang, and a range of other tools related to blockchain infrastructure and smart contract development.
+
+- Current Project: Designing new protocols and smart contracts for an ERC-20 Token-based ecosystem towards decentralized, anonymous, and accountable peer-review [TBA ~ Q1 2022]

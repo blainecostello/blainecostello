@@ -8,4 +8,4 @@ Hi, I’m @blainecostello
 
 - **Currently Learning:** Solidity, Truffle, goLang, and a range of other tools related to blockchain infrastructure and smart contract development.
 
-- **Current Project:** Designing new protocols and smart contracts for an ERC-20 Token-based ecosystem towards decentralized, anonymous, and accountable peer-review [_TBA ~ Q1 2022_]
+- **Side Project:** Designing new protocols and smart contracts for an ERC-20 Token-based ecosystem towards decentralized, anonymous, and accountable peer-review [_TBA ~ Q1 2022_]

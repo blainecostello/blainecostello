@@ -1,7 +1,7 @@
 Hi, I’m @blainecostello
 
 
-[**Take a look at my Resume**](https://github.com/blainecostello/blainecostello/blob/main/BCostello_CVx.pdf) for more information on my background.
+[**Take a look at my Resume**](https://github.com/blainecostello/blainecostello/blob/main/BCostelloResume.pdf) for more information on my background.
 
 
 - **Programming Languages:** Python, Matlab, C/C++, Embedded C++, LaTeX, 
